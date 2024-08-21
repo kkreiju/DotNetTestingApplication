@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model test.Models.AddStudentViewModel
+
+<h1>ibutang imong kailangan oy dako naka</h1>
+
+<form method="post">
+
+	<div class="mt-3">
+		<label class="form-label">Name</label>
+		<input type="text" class="form-control" asp-for="StudName" />
+	</div>
+
+	<div class="mt-3">
+		<label class="form-label">Email</label>
+		<input type="email" class="form-control" asp-for="StudEmail" />
+	</div>
+
+	<div class="mt-3">
+		<label class="form-label">Phone</label>
+		<input type="text" class="form-control" asp-for="StudPhone" />
+	</div>
+
+	<div class="mt-3">
+		<button type="submit" class="btn btn-primary">Save</button>
+	</div>
+
+</form>
