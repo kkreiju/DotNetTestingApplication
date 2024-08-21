@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\models\\entities\\studentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\models\\entities\\studentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\migrations\\20240821134751_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536E4883-E4CD-43F5-B76E-EE93BEEFA60C}|test\\test.csproj|c:\\users\\arjay\\documents\\coding\\c_sharp\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 237,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +70,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "test\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:50:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:27:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "test\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:11:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddStudentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "test\\Models\\AddStudentViewModel.cs",
@@ -71,33 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\Add.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Students\\Add.cshtml",
               "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Students\\Add.cshtml",
               "RelativeToolTip": "test\\Views\\Students\\Add.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-21T14:02:52.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "test\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "test\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAsAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:01:21.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "20240821134751_Initial Migration.cs",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Migrations\\20240821134751_Initial Migration.cs",
               "RelativeDocumentMoniker": "test\\Migrations\\20240821134751_Initial Migration.cs",
@@ -105,12 +156,11 @@
               "RelativeToolTip": "test\\Migrations\\20240821134751_Initial Migration.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:50:40.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T13:50:40.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\appsettings.json",
               "RelativeDocumentMoniker": "test\\appsettings.json",
@@ -118,8 +168,7 @@
               "RelativeToolTip": "test\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T13:05:12.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T13:05:12.27Z"
             },
             {
               "$type": "Document",
@@ -136,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "test\\Data\\ApplicationDBContext.cs",
@@ -144,25 +193,24 @@
               "RelativeToolTip": "test\\Data\\ApplicationDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T12:53:52.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T12:53:52.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "test\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "test\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-21T12:39:22.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "test\\Controllers\\HomeController.cs",
@@ -170,8 +218,7 @@
               "RelativeToolTip": "test\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T12:33:53.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T12:33:53.837Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<test.Models.Entities.StudentIdentity>
+
+<h1>Students of the Company</h1>
+
+<table class="table table-light">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <th scope="row">@student.StudID</th>
+                <td>@student.StudName</td>
+                <td>@student.StudEmail</td>
+                <td>@student.StudPhone</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Students" asp-action="Edit" asp-route-id="@student.StudID">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
