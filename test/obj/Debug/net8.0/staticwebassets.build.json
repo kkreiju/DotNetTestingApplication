@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RqigK0+pCfm65ygv1owcbR1HjZDRdVfMc+4BxAB+WMc=",
+  "Hash": "ixJald5Yrp3m8QLh7aQn6c8vi3xa/sCcmo4pjAqW314=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -72,25 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\favicon.ico",
-      "SourceId": "test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\",
-      "BasePath": "_content/test",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\js\\site.js",
@@ -1193,6 +1174,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\uc.ico",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "uc.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uc.ico"
+    },
+    {
+      "Identity": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\uc-logo-bg.png",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arjay\\Documents\\coding\\C_Sharp\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "uc-logo-bg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uc-logo-bg.png"
     }
   ]
 }
